@@ -1,4 +1,5 @@
-# awesome-chat
+# awesome-communication
+
 A curated list of open source, multiplatform and self hosted communication tools.
 
 * [Signal](https://signal.org/) - Making private communication simple. Encrypted chat, audio and videocalls.
