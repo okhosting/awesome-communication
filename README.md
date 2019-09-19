@@ -20,3 +20,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 * [Matrix](https://matrix.org) - Matrix is an open source project that publishes the Matrix open standard for secure, decentralised, real-time communication, and its Apache licensed reference implementations.
 
 * [Mattermost](https://mattermost.com/) - Mattermost is a flexible, open source messaging platform that enables secure team collaboration
+
+* [Pidgin](http://pidgin.im/) - Pidgin is a chat program which lets you log in to accounts on multiple chat networks simultaneously. This means that you can be chatting with friends on Jabber/XMPP, talking to a friend on Google Talk, and sitting in an IRC chat room all at the same time.
+
+* [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. http://meetfranz.com
+
