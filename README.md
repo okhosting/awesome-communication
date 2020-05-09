@@ -2,6 +2,8 @@
 
 A curated list of open source, multiplatform and self hosted communication tools.
 
+## Chat and messaging
+
 * [Signal](https://signal.org/) - Making private communication simple. Encrypted chat, audio and videocalls.
 
 * [Linphone](https://www.linphone.org/) - Linphone is an open source instant messaging and voice/video over IP (VoIP) phone that makes it possible to communicate freely with people over the internet via voice, video and text messaging.
@@ -25,4 +27,26 @@ A curated list of open source, multiplatform and self hosted communication tools
 * [Pidgin](http://pidgin.im/) - Pidgin is a chat program which lets you log in to accounts on multiple chat networks simultaneously. This means that you can be chatting with friends on Jabber/XMPP, talking to a friend on Google Talk, and sitting in an IRC chat room all at the same time.
 
 * [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+
+## Chat bots
+
+* [spaCy](https://pypi.org/project/spacy/) - Python library for advanced natural language processing.
+
+* [Botkit](https://github.com/howdyai/botkit) - Open Source bot building blocks for Slack, Facebook Messenger, Twilio, Microsoft with [Botkit Studio](https://studio.botkit.ai/) - a hosted development environment
+
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Open Source library to create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda
+
+* [AIVA](https://github.com/kengz/aiva) -General-purpose virtual assistant for developers.
+
+* [Bottr](https://github.com/Bottr-js/Bottr) - Open Source bot framework (nodejs).
+
+* [RedBot](http://red-bot.io) - A Node-RED plugin to create multi-platform bots visually (nodejs).
+
+* [Botman](https://botman.io/) - an open-source framework in PHP
+
+* [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
+
+* [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
+
+* [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
 
