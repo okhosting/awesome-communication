@@ -29,6 +29,25 @@ A curated list of open source, multiplatform and self hosted communication tools
 * [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 
 ## Chat bots
+* [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
+
+* [UVdesk](https://www.uvdesk.com/en/) - UVdesk offers SaaS-based and Open Source helpdesk solution to easier the overall support process to deliver best customer service.
+
+* [OpenDialog](https://www.opendialog.ai/) - OpenDialog - open source conversational AI. It powers enterprise scale chatbots on channels like web chat, Facebook Messenger and Amazon Alexa.
+
+* [Ana](https://www.ana.chat/) - Ana is FREE for Personal and Commercial use. With the Ana Studio, Server, Simulator and SDK your development time is cut from days to hours. There is no reason not to try it out!.
+
+* [E.D.D.I](https://www.eddi.labs.ai/) - A Scalable Open Source Chatbot Platform.  Create your own Enterprise-Ready Chatbot with a wide range of features such as In-Memory NLP, Behavior Rules, API Connector and Templating.
+
+* [Tiledesk](https://www.tiledesk.com/) - AI-powered Live Chat. The Live Chat for Web and Mobile Support with integrated Bot
+
+* [Bot Libre](https://www.botlibre.com/) - Bot Libre is a free open source platform for artificial intelligence, chatbots, live chat, and more.
+
+* [Xatkit](https://xatkit.com/) - Xatkit is a generic and extensible platform for developing all kinds of digital assistants. Create your own or let us help you build a custom-made bot able to work with any service you need.
+
+* [Tekos](https://tekos.co/) - Next-Generation Collaboration & Business Proccess Automation.
+
+* [Microsoft Bot Framework](https://dev.botframework.com/) - A comprehensive framework for building enterprise-grade conversational AI experiences.
 
 * [spaCy](https://pypi.org/project/spacy/) - Python library for advanced natural language processing.
 
@@ -50,18 +69,6 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Rasa Talk](https://github.com/jackdh/RasaTalk) - GUI supported open-source chatbot framework built over Rasa.
 
-* [UVdesk](https://www.uvdesk.com/en/) - UVdesk offers SaaS-based and Open Source helpdesk solution to easier the overall support process to deliver best customer service.
-
-* [OpenDialog](https://www.opendialog.ai/) - OpenDialog - open source conversational AI. It powers enterprise scale chatbots on channels like web chat, Facebook Messenger and Amazon Alexa.
-
-* [Ana](https://www.ana.chat/) - Ana is FREE for Personal and Commercial use. With the Ana Studio, Server, Simulator and SDK your development time is cut from days to hours. There is no reason not to try it out!.
-
-* [E.D.D.I](https://www.eddi.labs.ai/) - A Scalable Open Source Chatbot Platform.  Create your own Enterprise-Ready Chatbot with a wide range of features such as In-Memory NLP, Behavior Rules, API Connector and Templating.
-
-* [Tiledesk](https://www.tiledesk.com/) - AI-powered Live Chat. The Live Chat for Web and Mobile Support with integrated Bot
-
-* [Bot Libre](https://www.botlibre.com/) - Bot Libre is a free open source platform for artificial intelligence, chatbots, live chat, and more.
-
 * [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. 
 
 * [BotMan](https://botman.io/) - The PHP Framework for Chatbot Development.
@@ -70,18 +77,12 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Botfront](https://botfront.io/rasa/) -Create Rasa Virtual Assistants with Botfront Open Source.
 
-* [Xatkit](https://xatkit.com/) - Xatkit is a generic and extensible platform for developing all kinds of digital assistants. Create your own or let us help you build a custom-made bot able to work with any service you need.
-
 * [VISEO](https://bot.viseo.io/) - A modular and easy to use opensource bot maker.
 
 * [Botonic](https://botonic.io/) - Build Amazing Chatbots for any Platform with Node and React.
 
-* [Tekos](https://tekos.co/) - Next-Generation Collaboration & Business Proccess Automation.
-
 * [DeepPavlov](http://deeppavlov.ai/) -  An open source conversational AI framework. DeepPavlov makes it easy for beginners and experts to create dialogue systems. 
 
 * [Botshot](https://github.com/botshot/botshot) - Botshot is a Python/Django framework for building stateful chatbots and conversational interfaces.
-
-* [Microsoft Bot Framework](https://dev.botframework.com/) - A comprehensive framework for building enterprise-grade conversational AI experiences.
 
 * [Stealth](https://hellostealth.org/) -  Stealth is an open source Ruby framework for voice and text chatbots.
