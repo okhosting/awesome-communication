@@ -77,3 +77,11 @@ A curated list of open source, multiplatform and self hosted communication tools
 * [Botonic](https://botonic.io/) - Build Amazing Chatbots for any Platform with Node and React.
 
 * [Tekos](https://tekos.co/) - Next-Generation Collaboration & Business Proccess Automation.
+
+* [DeepPavlov](http://deeppavlov.ai/) -  An open source conversational AI framework. DeepPavlov makes it easy for beginners and experts to create dialogue systems. 
+
+* [Botshot](https://github.com/botshot/botshot) - Botshot is a Python/Django framework for building stateful chatbots and conversational interfaces.
+
+* [Microsoft Bot Framework](https://dev.botframework.com/) - A comprehensive framework for building enterprise-grade conversational AI experiences.
+
+* [Stealth](https://hellostealth.org/) -  Stealth is an open source Ruby framework for voice and text chatbots.
