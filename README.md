@@ -61,8 +61,6 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [RedBot](http://red-bot.io) - A Node-RED plugin to create multi-platform bots visually (nodejs).
 
-* [Botman](https://botman.io/) - an open-source framework in PHP
-
 * [BotPress](https://botpress.io/) - Botpress is an on-prem, open-source bot building platform for businesses
 
 * [Bottender](https://bottender.js.org/) - an open-source chatbot framework in NodeJS
