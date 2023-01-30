@@ -28,6 +28,9 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 
+* [Revolt](https://github.com/revoltchat) - Revolt is an open source user-first chat platform.
+
+
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
 
