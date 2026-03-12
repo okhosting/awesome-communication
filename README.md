@@ -28,6 +28,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 
+* [HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox for email, Slack, and GitHub. Built with SwiftUI for privacy-first, on-device communication management.
+
 * [Revolt](https://github.com/revoltchat) - Revolt is an open source user-first chat platform.
 
 * [OpenPaw](https://github.com/daxaur/openpaw) - Open-source AI-powered CLI that connects to Slack, Discord, Email, iMessage, WhatsApp, and Telegram from a single interface. Run via `npx pawmode`.
