@@ -94,5 +94,7 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Stealth](https://hellostealth.org/) -  Stealth is an open source Ruby framework for voice and text chatbots.
 
+* [GhostChat](https://ghostchat.dev) - ~10KB privacy-first open source live chat widget. Zero cookies, zero tracking. Includes Bot Agent API to connect any LLM (Ollama, Claude, GPT, Gemini) via webhook.
+
 ## Contributions welcome
 If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
