@@ -36,6 +36,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [BChat](https://bchat.beldex.io/) - BChat is a privacy messaging app built on the Beldex blockchain that does not require personal identifiers, such as phone numbers or email addresses.
 
+* [Weered](https://weered.ca) - Lobby-first community and voice platform for gamers; every game gets its own lobby with voice rooms, crews, and live presence pulled from Steam, Xbox, PSN and Twitch. Web and desktop, self-hostable.
+
 
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
