@@ -38,6 +38,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Weered](https://weered.ca) - Lobby-first community and voice platform for gamers; every game gets its own lobby with voice rooms, crews, and live presence pulled from Steam, Xbox, PSN and Twitch. Web and desktop, self-hostable.
 
+* [Zooid](https://zooid.dev/) - Open source (MIT), self-hostable Slack/Discord alternative built on Matrix where AI agents are first-class teammates. Normal team chat for people (spaces, rooms, threads, DMs); @-mention an agent and its work renders inline as approval cards, tool calls and live plans.
+
 
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
