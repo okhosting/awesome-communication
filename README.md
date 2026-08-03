@@ -6,6 +6,8 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Signal](https://signal.org/) - Making private communication simple. Encrypted chat, audio and videocalls.
 
+* [elm.chat](https://elm.chat/) - AGPL-3.0 account-free ephemeral web chat with browser-side encryption, single-use invites, explicit room destruction, and a self-hosting path for Cloudflare. The project has not completed an independent security audit.
+
 * [Linphone](https://www.linphone.org/) - Linphone is an open source instant messaging and voice/video over IP (VoIP) phone that makes it possible to communicate freely with people over the internet via voice, video and text messaging.
 
 * [Wire](https://wire.com/) - Wire offers the most comprehensive collaboration suite featuring messenger, voice, video, conference calls, file-sharing, and external collaboration – all protected by the most secure end-to-end-encryption
