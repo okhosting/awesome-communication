@@ -44,6 +44,7 @@ A curated list of open source, multiplatform and self hosted communication tools
 
 * [Zooid](https://zooid.dev/) - Open source (MIT), self-hostable Slack/Discord alternative built on Matrix where AI agents are first-class teammates. Normal team chat for people (spaces, rooms, threads, DMs); @-mention an agent and its work renders inline as approval cards, tool calls and live plans.
 
+* [Virola Messenger](https://virola.io/) - Secure messaging and collaboration for teams, organizations, friends, and family. A self-hosted solution with private and group chat rooms, file sharing, voice and video meetings, screen sharing and remote control, and task tracking with a Kanban board. No third-party tools are used - all features are developed in-house. Works in air-gapped networks.
 
 ## Chat bots
 * [Rasa](https://rasa.com/) - Rasa Open Source is a machine learning framework to automate text- and voice-based assistants.
